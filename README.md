@@ -3,6 +3,8 @@
 
 # 2021 미니드론 자율비행 경진대회
 
+ * 대회 기간:2021.3~2021.8 
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![License](https://img.shields.io/badge/Raspberry%20pi%20zero-pass-blue)        
 ![License](https://img.shields.io/badge/python-v3.8.5-brightgreen) ![License](https://img.shields.io/badge/e_drone-v21.1.6-brightgreen) ![License](https://img.shields.io/badge/numpy-v1.16.2-brightgreen) ![License](https://img.shields.io/badge/pillow-v5.4.1-brightgreen) ![License](https://img.shields.io/badge/opencv-v3.2.0-brightgreen)  
 <br></br>
